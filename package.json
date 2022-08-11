@@ -6,5 +6,8 @@
   "volta": {
     "node": "16.16.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@changesets/cli": "^2.24.2"
+  }
 }
