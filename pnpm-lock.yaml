@@ -14,7 +14,7 @@ importers:
   packages/example:
     specifiers:
       astro: ^1.0.1
-      astro-php: workspace:^0.0.0
+      astro-php: workspace:^0.0.1
     dependencies:
       astro-php: link:../astro-php
     devDependencies:
