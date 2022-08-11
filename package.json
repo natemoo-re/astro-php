@@ -3,6 +3,7 @@
   "scripts": {
     "dev": "pnpm --filter example run dev"
   },
+  "packageManager": "pnpm@7.9.0",
   "volta": {
     "node": "16.16.0"
   },
