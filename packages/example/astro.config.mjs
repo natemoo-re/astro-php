@@ -1,5 +1,5 @@
 import { defineConfig } from 'astro/config';
-import php from './php/index.mjs';
+import php from 'astro-php';
 
 // https://astro.build/config
 export default defineConfig({

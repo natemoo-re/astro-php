@@ -1,0 +1,9 @@
+{
+    "name": "astro-php",
+    "version": "0.0.0",
+    "main": "./index.mjs",
+    "exports": {
+        ".": "./index.mjs",
+        "./server.mjs": "./server.mjs"
+    }
+}

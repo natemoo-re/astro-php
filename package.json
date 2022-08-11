@@ -1,18 +1,10 @@
 {
-  "name": "@example/minimal",
-  "version": "0.0.1",
-  "private": true,
+  "name": "root",
   "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro"
-  },
-  "devDependencies": {
-    "astro": "^1.0.1"
+    "dev": "pnpm --filter example run dev"
   },
   "volta": {
     "node": "16.16.0"
-  }
+  },
+  "license": "MIT"
 }
