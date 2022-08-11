@@ -1,19 +1,26 @@
 {
-    "name": "astro-php",
-    "version": "0.0.0",
-    "main": "./index.mjs",
-    "files": [
-        "index.mjs",
-        "server.mjs",
-        "LICENSE",
-        "vendor/"
-    ],
-    "exports": {
-        ".": "./index.mjs",
-        "./server.mjs": "./server.mjs"
-    },
-    "author": {
-        "name": "Nate Moore",
-        "url": "https://nmoo.dev"
-    }
+  "name": "astro-php",
+  "version": "0.0.0",
+  "main": "./index.mjs",
+  "files": [
+    "index.mjs",
+    "server.mjs",
+    "LICENSE",
+    "vendor/"
+  ],
+  "exports": {
+    ".": "./index.mjs",
+    "./server.mjs": "./server.mjs"
+  },
+  "author": {
+    "name": "Nate Moore",
+    "url": "https://nmoo.dev"
+  },
+  "keywords": [
+    "astro-integration",
+    "astro-component",
+    "renderer",
+    "astro",
+    "php"
+  ]
 }
